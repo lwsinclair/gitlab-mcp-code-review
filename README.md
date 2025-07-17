@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mehmetakinn-gitlab-mcp-code-review-badge.png)](https://mseep.ai/app/mehmetakinn-gitlab-mcp-code-review)
+
 # GitLab MCP for Code Review
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
